@@ -1,0 +1,57 @@
+.hd1{
+    text-align: center;
+    background-color: rgb(253, 217, 13);
+    font-weight: 50px
+    ;
+}
+#layer11 h5{
+    text-align: center;
+}
+.card{
+    border: 0px;
+}
+#ly12{
+    margin-top: 10%;
+}
+#layer12 h5{
+    text-align: center;
+}
+.hd2{
+    text-align: center;
+    background-color: rgb(253, 217, 13);
+    font-weight: bolder;
+    margin-top: 3%;
+    padding: 3%;
+}
+#layer13{
+    margin-top: 10%;
+}
+#layer13 h5{
+    text-align: center;
+}
+#row13{
+    margin-top: 3%;
+}
+.hd14{
+    text-align: center;
+    background-color: rgb(253, 217, 13);
+    font-weight: bolder;
+    margin-top: 3%;
+    padding: 3%;
+}
+#layer15{
+    margin-top: 10%;
+    background-color: yellow;
+}
+#layer16{
+    background-color: whitesmoke;
+    padding-top: 50px;
+}
+.ly16{
+    text-align: center;
+}
+#layer17{
+    background-color: yellow;
+    min-height: 300px;
+    padding-top: 50px;
+}

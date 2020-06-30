@@ -1,0 +1,21 @@
+.ml-3{
+    width: 60%;
+}
+.media-body{
+    text-align: center;
+}
+.media-body h5{
+    font-size: small;
+}
+.media-body p{
+    font-size: smaller;
+}
+.layer2{
+    background-color: whitesmoke;
+}
+.a{
+    cursor: pointer;
+}
+.layer2 a{
+    text-decoration: none;
+}

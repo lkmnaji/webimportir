@@ -1,0 +1,11 @@
+.layer1{
+    background-color: yellow;
+    min-height: 530px;
+}
+.layer3{
+    min-height: 220px;
+}
+.layer4{
+    background-color: yellow;
+    min-height: 680px;
+}
